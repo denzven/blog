@@ -107,7 +107,7 @@ author:
   name             : "Denzven Ignatius Vadakkan"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : " "
-  location         : " "
+  location         : "Mumbai/India"
   email            : "denzvenvadakkan@gmail.com"
   links:
     - label: "Email"
@@ -127,29 +127,29 @@ author:
       url: "https://github.com/denzven"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/denzven"
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:denzvenvadakkan@gmail+blog.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://denzven.pythonanywhere.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/DenzvenIgnatius"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/denzven"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/denzven"
 
 
 # Reading Files
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
