@@ -63,7 +63,7 @@ search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Denzven Ignatius Vadakkan"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Busy thinking..."
-  location         : "Under the beautiful Blue Sky"
+  bio              : " "
+  location         : " "
   email            : "denzvenvadakkan@gmail.com"
   links:
     - label: "Email"
