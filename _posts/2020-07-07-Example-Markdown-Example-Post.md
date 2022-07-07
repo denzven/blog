@@ -1,5 +1,4 @@
 ---
-title: "Example Markdown Post"
 tags: 
 	- Example
 	- Markdown
