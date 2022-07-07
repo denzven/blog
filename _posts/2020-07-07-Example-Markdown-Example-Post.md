@@ -1,7 +1,10 @@
 ---
-tags: 
-	- Example
-	- Markdown
+title: "Example Markdown Post"
+date: 2020-07-07
+tags:
+  - Example
+  - Markdown
+  - layout
 ---
 
 A variety of common markup showing how the theme styles them.
