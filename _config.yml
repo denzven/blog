@@ -284,12 +284,15 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      header:
+        overlay_color: "#333"
+      layout: double
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
       toc: true
+      toc_sticky: true
       toc_label: "Table of Contents"
       toc_icon: "thumbtack"
