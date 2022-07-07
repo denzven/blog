@@ -5,6 +5,8 @@ tags:
   - Example
   - Markdown
   - layout
+categories:
+  - Example
 ---
 
 A variety of common markup showing how the theme styles them.
