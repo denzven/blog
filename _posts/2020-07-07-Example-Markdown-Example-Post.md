@@ -1,7 +1,8 @@
 ---
-title: "Example Markdown Example Post"
-layout: post
-tags: Example,Markdown
+title: "Example Markdown Post"
+tags: 
+	- Example
+	- Markdown
 ---
 
 A variety of common markup showing how the theme styles them.
