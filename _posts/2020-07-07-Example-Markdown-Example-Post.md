@@ -1,7 +1,7 @@
 ---
-title: "Archive Layout with Content"
-layout: archive
-permalink: /archive-layout-with-content/
+title: "Example Markdown Example Post"
+layout: post
+tags: Example,Markdown
 ---
 
 A variety of common markup showing how the theme styles them.
