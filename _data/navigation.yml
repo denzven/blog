@@ -1,6 +1,9 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
   - title: "Posts"
     url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "tags"
+    url: /tags/
+
