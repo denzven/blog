@@ -1,3 +1,8 @@
+---
+title: "About Me"
+permalink: /about
+---
+
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello there! I am Denzven.
 ---
 I am a 18 year old wierdo that hops on with tons of hobbies and gets bored easily. Tried out a bunch of stuff like blender3D, voxel art, making discord bots and telegram bots, basic python programs, basic java programs, right now i am making an Graphing API and its wrapper.
