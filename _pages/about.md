@@ -1,8 +1,8 @@
 ---
 title: "About Me"
 date: 2020-07-07
-layout: post
-permalink: /about
+layout: posts
+permalink: /about/
 ---
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello there! I am Denzven.
