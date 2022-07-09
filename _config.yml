@@ -296,15 +296,3 @@ defaults:
       toc_sticky: true
       toc_label: "Table of Contents"
       toc_icon: "thumbtack"
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      share: false
-      related: false
