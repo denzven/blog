@@ -2,6 +2,10 @@
 main:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
+  - title: "Website"
+    url: https://denzven.pythonanywhere.com/
   - title: "Posts"
     url: /year-archive/
   - title: "tags"

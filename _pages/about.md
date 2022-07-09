@@ -2,6 +2,12 @@
 title: "About Me"
 date: 2020-07-07
 layout: single
+author_profile: true
+related: true
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "thumbtack"
 permalink: /about/
 ---
 
