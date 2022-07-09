@@ -217,7 +217,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Kolkata
@@ -305,3 +305,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: false
+      share: false
+      related: false
